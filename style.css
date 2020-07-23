@@ -1,0 +1,117 @@
+/* //// chapter 43 -48 ////
+// task # 2 // */
+/* img{
+    width: 150px;
+} */
+
+/* // task # 4 // */
+/* img{
+    width: 150px;
+} */
+
+
+
+/* // chapter # 49 -52 // */
+/* // task # 3 // */
+/* 
+table tr th {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 15px;
+}
+
+table tr td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 15px;
+} */
+
+
+/* .add{
+    width: 100%;
+} */
+
+/* .width{
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+.abd{
+    border: 1px solid black;
+}
+
+
+
+<!-- // chapter 49 - 52 // -->
+<!-- // task # 1 //
+legend{
+    font-size: 2em;
+} */
+
+
+
+/* // chapter 52-57 // 
+// task # 1 //  */
+/* .write {
+    
+    width: 250px;
+    display: inline-block;
+    height: 200px;
+
+}
+
+.bigImage{
+    
+    width: 470px;
+    height: 300px;
+} */
+
+
+/* // task # 2 // */
+/* .abc{
+    width: 200px;
+} */
+
+/* //// chapter # 38-42 ////
+// task // */
+
+h2{
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+}
+
+
+
+/* 
+function LengthConverter(valNum){
+    var meter = document.getElementById("outputMeter");
+    meter.innerHTML = valNum*1000;
+  }
+  
+  // function Length2(b){
+  //   var feet = document.getElementById("outputFeet");
+  //   feet.innerHTML = b*3280.8; 
+  // }
+  
+  // function Length3(c){
+  //   var inch = document.getElementById("outPutInch");
+  //   inch.innerHTML = c*39370;
+  // }
+  
+  // function Length4(d){
+  //   var cm = document.getElementById("outPutCm");
+  //   cm.innerHTML = d*100000;
+  // }
+  // function LengthConverter(){
+  //   Length1();
+  //   Length2();
+  //   Length3();
+  //   Length4();
+  // } */
+  
